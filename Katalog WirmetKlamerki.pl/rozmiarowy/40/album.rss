@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Rozmiar 40</title>
+   	<link>..</link>
+        <generator>Jalbum 8.13</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>K46,40</title>
+            <link>slides/K46,40.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K46,40.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K46,40.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K46,40.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K88,40</title>
+            <link>slides/K88,40.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K88,40.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K88,40.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K88,40.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K140,40</title>
+            <link>slides/K140,40.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K140,40.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K140,40.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K140,40.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K170,40</title>
+            <link>slides/K170,40.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K170,40.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K170,40.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K170,40.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K240,40</title>
+            <link>slides/K240,40.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K240,40.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K240,40.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K240,40.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K240,402</title>
+            <link>slides/K240,402.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K240,402.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K240,402.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K240,402.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K265,402</title>
+            <link>slides/K265,402.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K265,402.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K265,402.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K265,402.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

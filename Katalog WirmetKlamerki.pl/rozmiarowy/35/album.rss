@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Rozmiar 35</title>
+   	<link>..</link>
+        <generator>Jalbum 8.13</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>K28,35</title>
+            <link>slides/K28,35.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K28,35.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K28,35.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K28,35.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K29,35</title>
+            <link>slides/K29,35.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K29,35.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K29,35.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K29,35.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K214,35</title>
+            <link>slides/K214,35.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K214,35.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K214,35.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K214,35.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K220,35</title>
+            <link>slides/K220,35.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K220,35.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K220,35.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K220,35.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K225,35</title>
+            <link>slides/K225,35.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K225,35.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K225,35.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K225,35.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

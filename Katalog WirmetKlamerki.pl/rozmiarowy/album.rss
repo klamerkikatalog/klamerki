@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>rozmiarowy</title>
+   	<link>.</link>
+        <generator>Jalbum 8.13</generator>
+   		<description>KATALOG ROZMIAROWY KLAMEREK</description>
+        
+    	<jalbum:link rel="sub" href="6/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="8/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="10/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="12/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="14/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="16/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="18/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="20/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="25/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="30/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="35/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="40/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="50/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

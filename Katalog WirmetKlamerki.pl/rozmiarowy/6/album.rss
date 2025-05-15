@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Rozmiar 6</title>
+   	<link>..</link>
+        <generator>Jalbum 8.13</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>K165,6</title>
+            <link>slides/K165,6.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K165,6.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K165,6.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K165,6.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K185,6</title>
+            <link>slides/K185,6.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K185,6.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K185,6.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K185,6.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K208,6</title>
+            <link>slides/K208,6.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K208,6.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K208,6.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K208,6.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K226,6</title>
+            <link>slides/K226,6.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K226,6.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K226,6.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K226,6.JPG</guid>
+        </item>
+        
+        <item>
+            <title>K260,6</title>
+            <link>slides/K260,6.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K260,6.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K260,6.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K260,6.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

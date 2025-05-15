@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Rozmiar 50</title>
+   	<link>..</link>
+        <generator>Jalbum 8.13</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>K243,50</title>
+            <link>slides/K243,50.jpg#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K243,50.jpg" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K243,50.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K243,50.jpg</guid>
+        </item>
+        
+        <item>
+            <title>K245,50</title>
+            <link>slides/K245,50.JPG#</link>
+            <pubDate>Wed, 02 Mar 2011 20:26:20 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/K245,50.JPG" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/K245,50.JPG" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/K245,50.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>
